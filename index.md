@@ -8,11 +8,10 @@ I was a trainee in IKD Co.Ltd.(2021.7-2021.9)
 
 
 ## Awards
-```
 - Second prize of Zhejiang Province in the National College Students' Mathematical Modeling Competition
 - H prize of American College Students' Mathematical Modeling Competition
 - National Endeavor Fellowship
-```
+
 
 
 
