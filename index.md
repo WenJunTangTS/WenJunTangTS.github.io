@@ -6,11 +6,13 @@ Cuurently, I am an undergraduate student in School of Mechanical Engineering and
 
 ### Awards
 
+# Second prize of Zhejiang Province in the National College Students' Mathematical Modeling Competition
+# H prize of American College Students' Mathematical Modeling Competition
+
 ```markdown
 Syntax highlighted code block
 
-# Second prize of Zhejiang Province in the National College Students' Mathematical Modeling Competition
-## Header 2
+
 ### Header 3
 
 - Bulleted
