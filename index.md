@@ -1,8 +1,8 @@
 ## Welcome to WenJun Tang's Homepage
 
-You can use the [editor on GitHub](https://github.com/WenJunTangTS/WenJunTangTS.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Cuurently, I am an undergraduate student in School of Mechanical Engineering and Mechanics of Ningbo University, majoring in electromechanical engineering and automation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
